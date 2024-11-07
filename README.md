@@ -1,5 +1,6 @@
+<!-- Hi  -->
 <h1 align="center"><b>Hi , I'm Mayra Santos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
-<!--  -->
+<!-- Presentation  -->
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -12,20 +13,20 @@
 
 <div align="center">
 
-
+<!-- Github Stats title  -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
-
+<!-- Table Most Used Lenguages -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasantosss&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&title_color=FFEAEA" align="right"/>
  
+ <!-- Table Current Strike -->
  ![julianasantosss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=julianasantosss&theme=material-palenight&hide_border=true&ring=e8ced2&fire=e8ced2&currStreakLabel=e8ced2&currStreakNum=FFEAEA&sideLabels=e8ced2&sideNums=FFEAEA&background=2c2b3b)
-
-
+<!-- Image Coding  -->
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+ <!-- Table Total Commits  -->
   <img src="https://github-readme-stats.vercel.app/api?username=julianasantosss&theme=material-palenight&show_icons=true&hide_border=true&count_private=true&title_color=FFEAEA&icon_color=e8ced2"align="right" /><br>
-
-
+  
+<!-- My Stack Title  -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Stack </b>
 <br>
