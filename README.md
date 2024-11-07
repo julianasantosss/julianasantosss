@@ -1,14 +1,14 @@
-<h1 align="center"><b>Hi , I'm Mayra Santos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center"><b>Hi , I'm Mayra Santos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 <!--  -->
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br>
-## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+## I'm a Software Developer and Programming Student.
+
+- 🤓 I’m focused on expanding my knowledge, honing my skills in Java Full Stack and Spring Boot to become a skilled Full Stack Developer💕.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 💗💨 Personal Traits: Detail-oriented, perfectionist, and very friendly – I enjoy collaborating and helping others.
+- 🫧 Fun fact: I love studying English and am always looking for ways to improve my skills!
 
 <div align="center">
 
