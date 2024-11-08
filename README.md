@@ -21,6 +21,8 @@
  
  <!-- Table Current Strike -->
  ![julianasantosss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=julianasantosss&theme=material-palenight&hide_border=true&ring=e8ced2&fire=e8ced2&currStreakLabel=e8ced2&currStreakNum=FFEAEA&sideLabels=e8ced2&sideNums=FFEAEA&background=2c2b3b)
+
+ 
 <!-- Image Coding  -->
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
  <!-- Table Total Commits  -->
