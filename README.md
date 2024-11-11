@@ -1,4 +1,4 @@
-<!-- Hi  -->
+<!-- Hi Title  -->
 <h1 align="center"><b>Hi , I'm Mayra Santos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 <!-- Presentation  -->
 
@@ -29,6 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=julianasantosss&theme=material-palenight&show_icons=true&hide_border=true&count_private=true&title_color=FFEAEA&icon_color=e8ced2"align="right" /><br>
   
 <!-- My Stack Title  -->
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Stack </b>
 <br>
