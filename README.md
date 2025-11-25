@@ -6,10 +6,9 @@
 
 ## I'm a Software Developer and Programming Student.
 
-- 🤓 I’m focused on expanding my knowledge, honing my skills in Java Full Stack and Spring Boot to become a skilled Full Stack Developer💕.
+- 🤓 I’m focused on expanding my knowledge, honing my skills in Java Full Stack and Spring Boot.
 - 💌💨 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🕺 Personal Traits: Detail-oriented, perfectionist, and very friendly – I enjoy collaborating and helping others.
-- 🫧 Fun fact: I love studying English and am always looking for ways to improve my skills!
+- 🫧 Personal Traits: Detail-oriented, perfectionist, and very friendly.
 
 <div align="center">
 
